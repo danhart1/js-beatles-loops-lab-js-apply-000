@@ -30,11 +30,10 @@ function johnLennonFacts(facts){
 //Question 3
 
   function iLoveTheBeatles(numba){
-     var iLuvBtls =[];
-   do{
+    var iLuvBtls =[];
+      do{
      iLuvBtls.push('I love the Beatles!');
    }while(numba<15);
-   return(iLuvBtls);
   }
   
 
