@@ -33,6 +33,7 @@ function johnLennonFacts(facts){
     var iLuvBtls =[];
       do{
      iLuvBtls.push('I love the Beatles!');
+     numba+=1;
     return iLuvBtls;
    }while(numba<15);
   }
