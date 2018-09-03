@@ -29,11 +29,11 @@ function johnLennonFacts(facts){
 
 //Question 3
   
-  function iLoveTheBeatles(number){
+  function iLoveTheBeatles(numba){
     var iLuvBtls =[];
    do{
-     iLuvBtls.push('I lov the Beatles!');
-   }while(number<15);
+     iLuvBtls.push('I love the Beatles!');
+   }while(numba<15);
    return iLuvBtls;
   }
   
